@@ -33,7 +33,7 @@
 ## Installation & Run
 
 * Before running the API server, you should update the database config inside the [application.properties]
-(https://github.com/Samrat-Sinha/Payment-Wallet-Application/blob/main/Payment_Wallet_Project/pom.xml) file.
+(https://github.com/kipkiruikenedy/Payment-Wallet-Application-java//pom.xml) file.
 * Update the port number, username and password as per your local database config.
 
 ```
